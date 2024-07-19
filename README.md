@@ -10,8 +10,8 @@ Server running on http://127.0.0.1:8000/
 
 ## Running Frontend
 
-1. ```cd client``
-2. ```npm install``
-3. ```npm start``
+1. ```cd client```
+2. ```npm install```
+3. ```npm start```
 
 React app running on http://localhost:3000/
